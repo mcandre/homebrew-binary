@@ -5,7 +5,7 @@ class Perforce < Formula
 
   if MacOS.prefer_64_bit?
     url "http://filehost.perforce.com/perforce/r15.1/bin.macosx105x86_64/p4"
-    sha256 "a6d39a35f2be437e2fcbc28a5d0a6b520a584bc122a262c8a5f14cf1dd1811c9"
+    sha256 "32a4b1da589ce70d408772268986bf9bd09aa22f30c8883cf5cf47eeff8f73ae"
   else
     url "http://filehost.perforce.com/perforce/r15.1/bin.macosx105x86/p4"
     sha256 "66db5105d11ff34adc8cae73e9b04e5655001b710dbc373f7c6475dba4831acc"
