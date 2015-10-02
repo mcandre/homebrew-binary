@@ -8,7 +8,7 @@ class Perforce < Formula
     sha256 "32a4b1da589ce70d408772268986bf9bd09aa22f30c8883cf5cf47eeff8f73ae"
   else
     url "http://filehost.perforce.com/perforce/r15.1/bin.macosx105x86/p4"
-    sha256 "66db5105d11ff34adc8cae73e9b04e5655001b710dbc373f7c6475dba4831acc"
+    sha256 "f95458600a1d6d293acd3ec60ce235c510a178d6525f3633d46904c7014c8efa"
   end
 
   def install
